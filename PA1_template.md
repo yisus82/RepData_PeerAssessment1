@@ -159,7 +159,7 @@ summary(stepspday2)
 ##    0.14   34.10   37.40   37.40   44.50   73.60
 ```
 
-**Conclusions:** the imputing missing data strategy used has minimal impact on the estimates of the total daily number of steps in which the mean and median remain the same.
+**Conclusions:** Using the mean to fill the missing values had minimal impact on the estimates of the total daily number of steps because the mean and the median have not changed.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
